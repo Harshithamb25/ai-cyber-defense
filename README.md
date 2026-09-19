@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CYRA: Cybersecurity Yielding Resilient Adaptive Defense
 
 [![Research Status](https://img.shields.io/badge/Research-Prototype-cyan.svg)](https://github.com/Harshithamb25/ai-cyber-defense)
@@ -179,3 +180,6 @@ CYRA is an academic research platform designed solely for defensive cybersecurit
 
 ## 9. License
 Distributed under the Apache 2.0 License.
+=======
+# ai-cyber-defense
+>>>>>>> 7345f28f962ecf09c3de2d37f620771a49ee803b
