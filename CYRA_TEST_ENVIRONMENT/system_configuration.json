@@ -1,0 +1,8 @@
+{
+  "system_id": "CYRA-HP-WIN11-NODE-01",
+  "environment": "CYRA_TEST_ENVIRONMENT",
+  "continuous_edr": "Microsoft Defender (Operational Log Ingestion)",
+  "hybrid_ml_verification": true,
+  "telemetry_rate_limit_secs": 10,
+  "safe_containment_mode": "ISOLATE_PROCESS_PRESERVE_EVIDENCE"
+}
